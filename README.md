@@ -1,5 +1,8 @@
 # Identificación de pacientes con neumonía mediante imágenes, utilizando técnicas de Visión Computacional
 
+## Objetivo
+Predecir pacientes con neumonía, basados en imágenes de Rayos X del Tórax de paciente.
+
 ## Descripción
 Se busca predecir que pacientes tienen neumonía, basados en imágenes de Rayos X del Tórax de pacientes que han sido diagnosticadas con neumonía severa y de pacientes que no han tenido neumonía severa, después de un diagnóstico médico realizado por expertos.  
 
