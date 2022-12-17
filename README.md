@@ -2,6 +2,7 @@
 
 ## Descripción
 Se busca predecir que pacientes tienen neumonía, basados en imágenes de Rayos X del Tórax de pacientes que han sido diagnosticadas con neumonía severa y de pacientes que no han tenido neumonía severa, después de un diagnóstico médico realizado por expertos.  
+
 Para ello se debe entrenar un modelo de visión computacional que tome como entrada una imagen de Rayos X del Tórax y determine si en la imagen hay o no presencia de neumonía.
 
 ## Preparación de datos.
