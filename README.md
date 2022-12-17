@@ -26,4 +26,3 @@ Los mejores resultados se obtuvieron, con una `ResNet50` y las arquitecturas bas
 
 Para ver más a detalle los resultados, consultar el archivo `CNN-InClass Competition Kaggle.pptx`.
 
-# repository
